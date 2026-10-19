@@ -129,7 +129,7 @@
 
         <div class="position-relative" style="z-index: 2; padding-top: 70px;">
             <h2 class="font-weight-bold text-primary mb-2">Sistem Informasi Surat Masuk dan Keluar</h2>
-            <h4 class="text-dark mb-2">Bapperida Provinsi Papua</h4>
+            <h4 class="text-dark mb-2">Dinas Pendidikan Provinsi Papua</h4>
             <p class="text-muted mb-0">
                 Media pengelolaan, monitoring, dan pengarsipan surat masuk, surat keluar, serta disposisi surat secara terintegrasi.
             </p>

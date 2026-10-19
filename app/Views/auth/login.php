@@ -23,7 +23,7 @@
     <div class="login-logo">
         <img src="<?= base_url('assets/img/logo-bapperida.png'); ?>" alt="Logo Bapperida">
         <div class="judul-app">SIMDIS</div>
-        <div class="subjudul-app">Bapperida Provinsi Papua</div>
+        <div class="subjudul-app">Dinas Pendidikan Provinsi Papua</div>
     </div>
 
     <div class="card">
